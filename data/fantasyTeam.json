@@ -1,0 +1,38 @@
+{"playersInTeam": [
+    {
+        "price": 5,
+        "name": "Hojbjerg",
+        "team": "TottenhamHotspurs",
+        "position": "midfielder"
+    },
+    {
+        "price": 6.5,
+        "name": "Alexander-Arnold",
+        "team": "Liverpool",
+        "position": "defender"
+    },
+    {
+        "price": 11.5,
+        "name": "DeBruyne",
+        "team": "ManchesterCity",
+        "position": "midfielder"
+    },
+    {
+        "price": 5.5,
+        "name": "James",
+        "team": "Chelsea",
+        "position": "defender"
+    },
+    {
+        "price": 12,
+        "name": "Kane",
+        "team": "TottenhamHotspurs",
+        "position": "striker"
+    },
+    {
+        "price": 10,
+        "name": "Son",
+        "team": "TottenhamHotspurs",
+        "position": "striker"
+    }
+]}

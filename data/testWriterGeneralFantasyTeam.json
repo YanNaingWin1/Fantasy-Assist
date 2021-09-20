@@ -1,0 +1,26 @@
+{"playersInTeam": [
+    {
+        "price": 5.5,
+        "name": "Leno",
+        "team": "Arsenal",
+        "position": "goalkeeper"
+    },
+    {
+        "price": 5.5,
+        "name": "Silva",
+        "team": "Chelsea",
+        "position": "defender"
+    },
+    {
+        "price": 9.5,
+        "name": "Sancho",
+        "team": "ManchesterUnited",
+        "position": "midfielder"
+    },
+    {
+        "price": 12.5,
+        "name": "Salah",
+        "team": "Liverpool",
+        "position": "striker"
+    }
+]}
