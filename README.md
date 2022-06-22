@@ -42,18 +42,14 @@ after completion, I hope to utilise this app to make decisions for my fantasy te
 - As a user, I want to be able to save my fantasy team.
 - As a user, I want to be able to load my fantasy team from where I left before.
 
-**"Phase 4 - Task 2"**
+"Include a type hierarchy in your code other than the one that uses the Saveable interface"
 
-I have included Option 2 - "Include a type hierarchy in your code other than the one that uses the Saveable interface 
-introduced in Phase 2".
 Classes involved - Team, FantasyTeam, FootballTeam
 Under "team" package in model, I created an abstract class named "Team". Two other classes in the same package 
 "FantasyTeam" and "FootballTeam" extend "Team" with 2 abstract methods from "Team" overridden (addPlayer and
 RemovePlayer). The process of adding players to a fantasy team is different from football team (e.g., the process 
 of checking players' teams is only necessary in fantasy team but not in football team) thus, this abstract method has 
 to be overridden in both classes. The same applies to removePlayer.
-
-**"Phase 4 - Task 3"**
 
 A major change I would make is to establish a bi-directional relationship between Football Team and Player. I had an 
 idea to implement this when writing the console application, but I did not know how to do this during that time. It 
